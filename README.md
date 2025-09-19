@@ -14,18 +14,14 @@ One-click automation to start a Google Meet livestream with screen sharing and S
 
 <div align="center">
   <a href="https://www.loom.com/share/88d80793a10349efae7274fceafa22fc">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.loom.com/sessions/thumbnails/88d80793a10349efae7274fceafa22fc-with-play.gif">
-      <img src="https://cdn.loom.com/sessions/thumbnails/88d80793a10349efae7274fceafa22fc-with-play.gif" width="600" alt="Watch Demo Video">
-    </picture>
+    <img src="demo-screenshot.png" width="700" alt="Google Meet Stream Automation Demo">
   </a>
 
-  <br><br>
-  <strong>
-    <a href="https://www.loom.com/share/88d80793a10349efae7274fceafa22fc">
-      ▶️ Watch the full demo and explanation on Loom
-    </a>
-  </strong>
+  **[▶️ Watch the full demo video (3 min)](https://www.loom.com/share/88d80793a10349efae7274fceafa22fc)**
+
+  <br>
+
+  See the automation in action - from hotkey press to live stream in seconds!
 </div>
 
 With one keypress, the automation:
