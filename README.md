@@ -14,13 +14,19 @@ One-click automation to start a Google Meet livestream with screen sharing and S
 
 <div align="center">
   <a href="https://www.loom.com/share/88d80793a10349efae7274fceafa22fc">
-    <img src="https://cdn.loom.com/sessions/thumbnails/88d80793a10349efae7274fceafa22fc-1734640977337-with-play.gif" width="600" alt="Watch the demo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.loom.com/sessions/thumbnails/88d80793a10349efae7274fceafa22fc-with-play.gif">
+      <img src="https://cdn.loom.com/sessions/thumbnails/88d80793a10349efae7274fceafa22fc-with-play.gif" width="600" alt="Watch Demo Video">
+    </picture>
   </a>
-</div>
 
-<p align="center">
-  <strong><a href="https://www.loom.com/share/88d80793a10349efae7274fceafa22fc">▶️ Watch the full demo and explanation on Loom</a></strong>
-</p>
+  <br><br>
+  <strong>
+    <a href="https://www.loom.com/share/88d80793a10349efae7274fceafa22fc">
+      ▶️ Watch the full demo and explanation on Loom
+    </a>
+  </strong>
+</div>
 
 With one keypress, the automation:
 1. Creates a new Google Meet
@@ -43,7 +49,7 @@ With one keypress, the automation:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/meet-stream-automation.git
+git clone https://github.com/culstrup/meet-stream-automation.git
 cd meet-stream-automation
 ```
 
@@ -224,8 +230,8 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/meet-stream-automation/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/meet-stream-automation/discussions)
+- **Issues**: [GitHub Issues](https://github.com/culstrup/meet-stream-automation/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/culstrup/meet-stream-automation/discussions)
 
 ---
 
